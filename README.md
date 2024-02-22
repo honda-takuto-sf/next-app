@@ -1,3 +1,14 @@
+## 手順
+
+### git clone
+```
+git clone https://github.com/honda-takuto-sf/next-app.git
+```
+
+### ローカルサーバー起動
+```
+npm run dev
+```
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
